@@ -1,4 +1,4 @@
-# Alcon-Development-Program
+# Alcon-Development-Program Assessment
 ## Q: Why using Github rather than sharing Power BI link?
 A: To share Power BI dashboard outside of the organization, it **required purchase of Power BI Premium which I do not have at the moment.**
 
