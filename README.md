@@ -1,6 +1,6 @@
 # ALC-Development-Program Assessment
 ## Q: Why using Github rather than sharing Power BI link?
-A: To share Power BI dashboard outside of the organization, it **required purchase of Power BI Premium which I do not have at the moment.**
+A: To share Power BI Dashboard outside of the organization, it **required purchase of Power BI Premium which I do not have at the moment.**
 
 Considering that the recruiter may not have the same organization account, and for the purpose of avoiding inconvenience, I uploaded the BI dashboard file to GitHub so that the recruiter may download and view it locally for assessment purpose. 
 
