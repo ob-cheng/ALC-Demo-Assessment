@@ -10,13 +10,18 @@ My apology for the inconvience. And I will begin learning Tableau to avoid more 
 ## SQL script
 You may also find the SQL script I used to answer the assessment interesting. 
 
-Please look at https://github.com/ob-cheng/Alcon-Demo/blob/main/alcon_demo.sql. 
+Please find at https://github.com/ob-cheng/Alcon-Demo/blob/main/alcon_demo.sql. 
 
----------------------------------------------------------------------------------------------------------
+## Alteryx Workflow
+You may also find the Alteryx workflow I used to prepare data.
 
-If you have any concern or question, please feel free to contact me at obadiahcheng@icloud.com. 
+Please find it at https://github.com/ob-cheng/Alcon-Demo/blob/main/DP_Alcon.yxmd.
 
-I will be gladly answering your questions. 
+---
+
+If you have any concern or question, please feel free to contact me at obadiahcheng@icloud.com.
+
+I will be gladly answering your questions and walk you through the problem & solutions. 
 
 Best regards,
 
